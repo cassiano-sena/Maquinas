@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "mu3JWd6iLJg=",
+  "success": true,
+  "projectFilePath": "C:\\REPO\\UNIVALI\\TEORIA-DA-COMPUTACAO\\M3-cassiano\\HeuristicasDistribuicaoTarefas.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kas21\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.36\\microsoft.netcore.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\kas21\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.36\\microsoft.windowsdesktop.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\kas21\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.36\\microsoft.aspnetcore.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\kas21\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.36\\microsoft.netcore.app.host.win-x64.6.0.36.nupkg.sha512"
+  ],
+  "logs": []
+}

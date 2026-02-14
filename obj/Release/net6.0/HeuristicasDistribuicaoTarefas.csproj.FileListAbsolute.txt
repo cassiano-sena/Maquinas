@@ -1,0 +1,14 @@
+C:\REPO\UNIVALI\TEORIA-DA-COMPUTACAO\M3-cassiano\bin\Release\net6.0\HeuristicasDistribuicaoTarefas.exe
+C:\REPO\UNIVALI\TEORIA-DA-COMPUTACAO\M3-cassiano\bin\Release\net6.0\HeuristicasDistribuicaoTarefas.deps.json
+C:\REPO\UNIVALI\TEORIA-DA-COMPUTACAO\M3-cassiano\bin\Release\net6.0\HeuristicasDistribuicaoTarefas.runtimeconfig.json
+C:\REPO\UNIVALI\TEORIA-DA-COMPUTACAO\M3-cassiano\bin\Release\net6.0\HeuristicasDistribuicaoTarefas.dll
+C:\REPO\UNIVALI\TEORIA-DA-COMPUTACAO\M3-cassiano\bin\Release\net6.0\HeuristicasDistribuicaoTarefas.pdb
+C:\REPO\UNIVALI\TEORIA-DA-COMPUTACAO\M3-cassiano\obj\Release\net6.0\HeuristicasDistribuicaoTarefas.GeneratedMSBuildEditorConfig.editorconfig
+C:\REPO\UNIVALI\TEORIA-DA-COMPUTACAO\M3-cassiano\obj\Release\net6.0\HeuristicasDistribuicaoTarefas.AssemblyInfoInputs.cache
+C:\REPO\UNIVALI\TEORIA-DA-COMPUTACAO\M3-cassiano\obj\Release\net6.0\HeuristicasDistribuicaoTarefas.AssemblyInfo.cs
+C:\REPO\UNIVALI\TEORIA-DA-COMPUTACAO\M3-cassiano\obj\Release\net6.0\HeuristicasDistribuicaoTarefas.csproj.CoreCompileInputs.cache
+C:\REPO\UNIVALI\TEORIA-DA-COMPUTACAO\M3-cassiano\obj\Release\net6.0\HeuristicasDistribuicaoTarefas.dll
+C:\REPO\UNIVALI\TEORIA-DA-COMPUTACAO\M3-cassiano\obj\Release\net6.0\refint\HeuristicasDistribuicaoTarefas.dll
+C:\REPO\UNIVALI\TEORIA-DA-COMPUTACAO\M3-cassiano\obj\Release\net6.0\HeuristicasDistribuicaoTarefas.pdb
+C:\REPO\UNIVALI\TEORIA-DA-COMPUTACAO\M3-cassiano\obj\Release\net6.0\HeuristicasDistribuicaoTarefas.genruntimeconfig.cache
+C:\REPO\UNIVALI\TEORIA-DA-COMPUTACAO\M3-cassiano\obj\Release\net6.0\ref\HeuristicasDistribuicaoTarefas.dll

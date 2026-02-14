@@ -1,0 +1,59 @@
+﻿==========================================================
+  RELATÓRIO DE ANÁLISE - HEURÍSTICAS DE OTIMIZAÇÃO
+==========================================================
+
+1. MÉDIA DE ITERAÇÕES POR HEURÍSTICA
+-----------------------------------------------------
+BuscaMonotonaRandomizada      :    4105.12 iterações
+BuscaLocalIterada             :    1269.25 iterações
+BuscaTabu                     :    1002.83 iterações
+TemperaSimulada               :     308.15 iterações
+
+2. MÉDIA DE TEMPO POR HEURÍSTICA
+-----------------------------------------------------
+BuscaLocalIterada             :     9.5811 segundos
+BuscaMonotonaRandomizada      :     0.8257 segundos
+BuscaTabu                     :     0.6886 segundos
+TemperaSimulada               :     0.0001 segundos
+
+3. QUALIDADE DAS SOLUÇÕES (Menor Makespan = Melhor)
+-----------------------------------------------------
+BuscaLocalIterada             : Média=    109.15  Melhor=     84.00
+BuscaMonotonaRandomizada      : Média=    114.16  Melhor=     84.00
+BuscaTabu                     : Média=    118.49  Melhor=     84.00
+TemperaSimulada               : Média=    131.30  Melhor=     84.00
+
+4. MELHORES PARÂMETROS POR HEURÍSTICA
+-----------------------------------------------------
+
+BuscaMonotonaRandomizada:
+  Melhor parâmetro (qualidade): 0.20
+  Makespan médio: 108.85
+  Tempo médio: 0.8960s
+  Parâmetro mais rápido: 0.90 (0.6541s)
+
+BuscaLocalIterada:
+  Melhor parâmetro (qualidade): 0.10
+  Makespan médio: 105.82
+  Tempo médio: 7.3388s
+  Parâmetro mais rápido: 0.10 (7.3388s)
+
+BuscaTabu:
+  Melhor parâmetro (qualidade): 0.08
+  Makespan médio: 118.45
+  Tempo médio: 0.7131s
+  Parâmetro mais rápido: 0.01 (0.6462s)
+
+TemperaSimulada:
+  Melhor parâmetro (qualidade): 0.99
+  Makespan médio: 123.92
+  Tempo médio: 0.0003s
+  Parâmetro mais rápido: 0.90 (0.0000s)
+
+5. RESUMO GERAL
+-----------------------------------------------------
+Melhor qualidade: BuscaLocalIterada (Makespan médio: 109.15)
+Mais rápida: TemperaSimulada (0.0001s)
+Mais iterações: BuscaMonotonaRandomizada (4105 iterações)
+
+==========================================================

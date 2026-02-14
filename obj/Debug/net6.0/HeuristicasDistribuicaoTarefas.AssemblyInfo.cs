@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HeuristicasDistribuicaoTarefas")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8614b1cfd0f46e3af34b06fe55f47d6a786f3b6e")]
 [assembly: System.Reflection.AssemblyProductAttribute("HeuristicasDistribuicaoTarefas")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HeuristicasDistribuicaoTarefas")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
